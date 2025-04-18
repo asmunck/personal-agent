@@ -1,10 +1,10 @@
 # Agente RAG Local para Cibersegurança
 
-Este projeto implementa um sistema de Retrieval-Augmented Generation (RAG) totalmente local para responder perguntas sobre cibersegurança, utilizando apenas o conteúdo de documentos PDF fornecidos pelo usuário.
+Este projeto implementa um sistema de Retrieval-Augmented Generation (RAG) totalmente local para responder perguntas sobre diferentes assuntos, utilizando apenas o conteúdo de documentos PDF fornecidos pelo usuário.
 
 ## Funcionalidades
 
-- Busca semântica em PDFs de cibersegurança.
+- Busca semântica em PDFs.
 - Respostas factuais baseadas exclusivamente no conteúdo dos PDFs.
 - Processamento local: embeddings, banco vetorial e LLM rodam em sua máquina.
 - Interface web via Streamlit para perguntas e respostas.
