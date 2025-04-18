@@ -1,0 +1,13 @@
+*.pdf
+*.gguf
+chroma_db/
+faiss_index/
+embeddings.pkl
+*.pkl
+venom/
+
+__pycache__/
+*.pyc
+
+*.env
+.DS_Store
